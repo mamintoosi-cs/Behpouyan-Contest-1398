@@ -7,6 +7,10 @@
 	2. `train_sum.xlsx` the last sheet (total of all 33 industry)
 
 * `aggrigate_data.ipynb` for trusting the reported data
+* `train_sum_agg.xlsx` the trusted data with comparing `train_sum.xlsx` and result `aggrigate_data.ipynb`
+
+* `prepare_data.ipynb` preparing the data for training
+* `prepared_train_data.xlsx` prepared data by file `prepare_data.ipynb`
 
  ;)
 
