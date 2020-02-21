@@ -19,7 +19,7 @@
 ![image 1](https://github.com/mamintoosi-cs/Behpouyan-Contest-1398/blob/master/image/image_1.png "Image 1")
 
 
-* `predication.ipynb` train data and predicate result (Accuracy : [16, 17)
+* `predication.ipynb` train data and predicate result (Accuracy : [8, 9) )
 
 
  :wink:
