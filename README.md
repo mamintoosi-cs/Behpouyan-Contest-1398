@@ -21,6 +21,9 @@
 
 * `predication.ipynb` train data and predicate result (Accuracy : [8, 9) )
 
+* `holiday_94_to_98.xlsx` day status of jalali year 94 to 98
+
+
 
  :wink:
 
