@@ -14,6 +14,7 @@
 	* normalize data
     * feature engineering
  	* remove bad data ( ```ABS[label - data.mean] > 2.5 * data.std``` )
+	* **(new)** add holiday type of each day
 * `prepared_train_data.xlsx` prepared data by file `prepare_data.ipynb` contains **image 1**
 
 ![image 1](https://github.com/mamintoosi-cs/Behpouyan-Contest-1398/blob/master/image/image_1.png "Image 1")
@@ -22,6 +23,12 @@
 * `predication.ipynb` train data and predicate result (Accuracy : [8, 9) )
 
 * `holiday_94_to_98.xlsx` day status of jalali year 94 to 98
+
+* `prepared_train_data.xlsx` new version of prepared data by prepared_data script contains **image 2**
+
+![image 2](https://github.com/mamintoosi-cs/Behpouyan-Contest-1398/blob/master/image/image_2.png "Image 1")
+
+
 
 
 
